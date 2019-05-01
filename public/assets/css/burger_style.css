@@ -17,22 +17,28 @@ h1  {
  text-align: center;
 }
 
-  .lead {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 32px;
-    color: #979917;
-    text-align: center;  
-  }
+.lead {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 32px;
+  color: #979917;
+  text-align: center;  
+}
   
-  .create-update-form {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 5px;
-  }
+.create-update-form {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+}
   
-  /*.form-group {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }*/
+.form-group {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#addBurger  {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
